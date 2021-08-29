@@ -1,3 +1,5 @@
+# The code taken from https://github.com/Junyoungpark/CGS
+
 from functools import partial
 
 import dgl
